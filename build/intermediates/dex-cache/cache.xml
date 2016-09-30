@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_199eaa4de4595a9888ff17b5d832bd184cdd203e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_83269eca00bf32a82fdc6a7de85cbf128bb6c986\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f9dd2b3a9711d4f64516a6db354a8ed85bb61607\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_deab5854f0c2aa74854b18479509af81bacf74b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_aa9c5a0dda5e0dbc524d28532543f7030f7313f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="598686acc2a651e50a29b5aa091314661123dd0e">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e0f9b2c1068be26d79c19a3a5a4cece1f4a561f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1bce5230f18578b8e7be738af322f451ed7846a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_d0f986d9daa88ce0c81cda41fb0830ec255d8e25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_9197862e3876ef75592f1576d217ee616df93275\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7e293c96bc182684611363517048ce96ec245e29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_2519a9d9c32116a120ca72f9688a189288fcaa37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_6992bfcea5ec1add502e20f43d8b7dc6eaec9f88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_3210800601b656c4c81e73854077844b7d86df41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7f099642ba017e45dfc3d17b31fdea979a107d34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="899b0b1891fc12045061aa786a497086c8225a31">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_43e29bc9c1776cc3a077bf85601bd4b79183f168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_f8b87843b2135b5f1a4abebc4a059195847dcf2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\mpaulding\AndroidStudioProjects\OCMusicEvents\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_76604b09f7dcb9c17671fbaa5b51b7a12bbf3602\classes.dex" />
+    </item>
+
+</items>
